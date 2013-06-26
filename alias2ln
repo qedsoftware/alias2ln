@@ -1,4 +1,6 @@
 #!/bin/sh
+# source: http://hints.macworld.com/article.php?story=20021024064107356 
+# author: mithras
 if [ $# -eq 0 ]; then
   echo "Usage: alias2ln alias1 alias2 alias3..."
   echo "  where alias1, alias2, etc are alias files."
